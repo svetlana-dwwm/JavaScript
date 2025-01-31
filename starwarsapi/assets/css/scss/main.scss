@@ -1,0 +1,10 @@
+// Color 
+::root {
+    --default-color: #000;
+    --background-color: #fff;
+}
+
+// Import
+@import 'reset';
+
+// Don't forget sass assets/css/scss/main.scss:assets/css/main.css --watch --style compressed  
